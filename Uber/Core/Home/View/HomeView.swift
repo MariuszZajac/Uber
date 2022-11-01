@@ -13,7 +13,7 @@ struct HomeView: View {
     
     var body: some View {
         ZStack (alignment: .top){
-            UberAppViewRepresentable()
+            UberMapViewRepresentable()
                 .ignoresSafeArea()
             if showLocationSearchView {
                 LocationSearchView(showLocationSearchView: $showLocationSearchView
