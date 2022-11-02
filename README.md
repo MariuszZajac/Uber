@@ -1,0 +1,7 @@
+# Uber app like a orginal app;-) 
+![Simulator Screen Shot - iPhone 14 Pro - 2022-11-02 at 18 32 55](https://user-images.githubusercontent.com/93003863/199560907-9ea09e6d-d52e-4dda-804b-f389d93c5a6a.png)
+![Simulator Screen Shot - iPhone 14 Pro - 2022-11-02 at 18 32 48](https://user-images.githubusercontent.com/93003863/199560918-70e31e15-0205-4076-824c-2357dd4a1bde.png)
+![Simulator Screen Shot - iPhone 14 Pro - 2022-11-02 at 18 31 43](https://user-images.githubusercontent.com/93003863/199560927-5d46b9e1-d070-47a0-9ed3-2edf0744ec56.png)
+![Simulator Screen Shot - iPhone 14 Pro - 2022-11-02 at 18 31 17](https://user-images.githubusercontent.com/93003863/199560931-7e79bb9f-e3b4-47f7-b3ec-fa71426106ff.png)
+![Simulator Screen Shot - iPhone 14 Pro - 2022-11-02 at 18 31 10](https://user-images.githubusercontent.com/93003863/199560934-d51ab440-28ad-410b-9dc3-8d802f63b356.png)
+![Simulator Screen Shot - iPhone 14 Pro - 2022-11-02 at 18 30 50](https://user-images.githubusercontent.com/93003863/199560937-8fa9cb87-e4f6-495c-9f3f-768a0cda62bc.png)
